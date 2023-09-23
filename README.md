@@ -4,10 +4,10 @@
 
 Tools and resources Used for this particular project :-
 
-• Tableau
-• Excel
-• Data Cleaning
-• Data Visualization
+• Tableau  
+• Excel  
+• Data Cleaning  
+• Data Visualization  
 
 Customer Analysis Dashbord  
 
